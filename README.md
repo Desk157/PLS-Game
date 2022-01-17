@@ -1,4 +1,4 @@
-# ccagame
+# PLS-Game
 
 ## How to run an experiment
 
